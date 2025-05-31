@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "61356e66-bba2-444d-876d-c39d787e6bb0"
+      }
+    },
+    "android": {
+      "package": "com.gabi12345.salonchatavatares",
+      "usesCleartextTraffic": true 
+    }
+  }
+}
